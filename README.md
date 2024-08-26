@@ -24,7 +24,7 @@ Since the solution is currently conceptual and not fully implemented due to tech
 
 ## Presentation
 
-For a detailed explanation of the Kirana+ concept, please refer to the [presentation slides](link-to-your-presentation).
+For a detailed explanation of the Kirana+ concept, please refer to the [presentation slides](https://lablab.ai/event/ibm-watsonx-challenge/deslam/kirana-plus).
 
 ## Future Work
 
